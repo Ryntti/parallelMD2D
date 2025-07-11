@@ -1,0 +1,10 @@
+Average wall clock time in seconds using 2 processes: 1.47201900000000000000 
+Average wall clock time in seconds using 4 processes: .78335370000000000000 
+Average wall clock time in seconds using 6 processes: .56004440000000000000 
+Average wall clock time in seconds using 8 processes: .43912620000000000000 
+Average wall clock time in seconds using 10 processes: .38431850000000000000 
+Average wall clock time in seconds using 12 processes: .34842440000000000000 
+Average wall clock time in seconds using 14 processes: .32597490000000000000 
+Average wall clock time in seconds using 16 processes: .28916390000000000000 
+Average wall clock time in seconds using 18 processes: .28250170000000000000 
+Average wall clock time in seconds using 20 processes: .25489460000000000000 
